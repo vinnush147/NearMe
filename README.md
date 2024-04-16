@@ -158,8 +158,8 @@ The Sunbeam group has been a long-standing beacon of premium education. Establis
 </html>
 ```
 ## OUTPUT
-![alt text](<Screenshot 2024-04-04 133900.png>)
  ![alt text](<Screenshot 2024-04-04 133200.png>) 
+![alt text](<Screenshot 2024-04-04 133900.png>)
  ![alt text](<Screenshot 2024-04-04 133330.png>) 
  ![alt text](<Screenshot 2024-04-04 133511.png>) 
  ![alt text](<Screenshot 2024-04-04 133605.png>) 
